@@ -11,6 +11,20 @@
     "href": "posts/test-post/index.html",
     "title": "Test post",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a post with a plot and a map."
+  },
+  {
+    "objectID": "posts/test-post/index.html#plot",
+    "href": "posts/test-post/index.html#plot",
+    "title": "Test post",
+    "section": "Plot",
+    "text": "Plot"
+  },
+  {
+    "objectID": "posts/test-post/index.html#map",
+    "href": "posts/test-post/index.html#map",
+    "title": "Test post",
+    "section": "Map",
+    "text": "Map"
   }
 ]
